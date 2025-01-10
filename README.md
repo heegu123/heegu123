@@ -1,4 +1,10 @@
 ## Hi there 👋
+----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heegu123&layout=compact)](https://github.com/heegu123/github-readme-stats)
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heegu123&theme=tokyonight&show_icons=true)
 
 <!--
 **heegu123/heegu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
