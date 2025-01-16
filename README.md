@@ -2,14 +2,15 @@
 
 <hr>
 
-<div align="center">
-  
+<div>
+
+
 ![heegu123's GitHub stats](https://github-readme-stats.vercel.app/api?username=heegu123&count_private=true&theme=tokyonight&show_icons=true)
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heegu123&theme=tokyonight&show_icons=true)](https://github.com/heegu123/github-readme-stats)
+<div>
 
-<hr>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=margherita123)](https://solved.ac/margherita123/)
 
 <hr>
 
